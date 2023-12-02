@@ -1,10 +1,1 @@
-System.register([], (function (exports, module) {
-	'use strict';
-	return {
-		execute: (function () {
-
-			var spine_js = exports('default', 'assets/spine.js.mem-c0c591ab.bin');
-
-		})
-	};
-}));
+System.register([],(function(e){"use strict";return{execute:function(){e("default","assets/spine.js.mem-c0c591ab.bin")}}}));
